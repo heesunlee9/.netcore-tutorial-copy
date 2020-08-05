@@ -1,0 +1,9 @@
+/Users/joylee/Projects/ClassLibraryProjects/StringLibrary/bin/Debug/netstandard2.0/StringLibrary.deps.json
+/Users/joylee/Projects/ClassLibraryProjects/StringLibrary/bin/Debug/netstandard2.0/StringLibrary.dll
+/Users/joylee/Projects/ClassLibraryProjects/StringLibrary/bin/Debug/netstandard2.0/StringLibrary.pdb
+/Users/joylee/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.0/StringLibrary.csprojAssemblyReference.cache
+/Users/joylee/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.0/StringLibrary.AssemblyInfoInputs.cache
+/Users/joylee/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.0/StringLibrary.AssemblyInfo.cs
+/Users/joylee/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.0/StringLibrary.csproj.CoreCompileInputs.cache
+/Users/joylee/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.0/StringLibrary.dll
+/Users/joylee/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.0/StringLibrary.pdb

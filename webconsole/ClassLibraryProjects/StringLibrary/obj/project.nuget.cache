@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ZQ8OFbzqwARJUAE3SGyPvgFyjbAYyhR3TQg5IRh21Qle6CIVgQhp2Azjh9yOtamLqBUkDpndKFJxKwqfFBRhg==",
+  "success": true,
+  "projectFilePath": "/Users/joylee/Projects/ClassLibraryProjects/StringLibrary/StringLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/joylee/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/joylee/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.deps.json
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.runtimeconfig.json
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.runtimeconfig.dev.json
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.dll
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.pdb
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/StringLibrary.dll
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/StringLibrary.pdb
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.csprojAssemblyReference.cache
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.AssemblyInfoInputs.cache
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.AssemblyInfo.cs
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.csproj.CoreCompileInputs.cache
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.csproj.CopyComplete
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.dll
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.pdb
+/Users/joylee/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.genruntimeconfig.cache
